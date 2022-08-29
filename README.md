@@ -1,1 +1,1 @@
-і
+First mini application
